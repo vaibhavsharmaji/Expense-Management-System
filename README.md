@@ -9,8 +9,8 @@ A full-stack web application that allows users to track and manage their daily, 
 - 🔐 **User Authentication** (Login/Signup)
 - ➕ **Add, Edit, Delete Expenses**
 - 📅 **View Monthly and Daily Summaries**
-- 📊 **Visualize Expenses** using charts (if implemented)
-- 📱 **Responsive Design** (mobile-first using Bootstrap)
+- 📊 **Visualize Expenses** using charts 
+- 📱 **Responsive Design** 
 
 ---
 
